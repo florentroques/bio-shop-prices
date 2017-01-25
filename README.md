@@ -14,11 +14,10 @@
 | **Courge**          |  2,98€ | | |
 | **Potimarron**      |        | 2,50€  | |
 | **Oranges**         |  1,65€ |  1,09€ | |
+| **Olives vertes pot 37cl** |  | 17,50€ |  |
+| **Galettes riz complet ss sel** | | 11,46€ | |
+| **Galettes riz sésame** | | 11,46€ | |
+| **Galettes riz fines ss sel** | | 12,69€ | |
+| **Galettes riz multi céréales** | | 11,46€ | |
 | **Prix/pièce** | **Prix/pièce** | **Prix/pièce** | **Prix/pièce** |
 | **Avocat** | 1,35€ (1,12€ si achat 3) | | |   
-| **Prix produit** | **Prix produit** | **Prix produit** | **Prix produit** |
-| **Olives vertes pot 37cl** |  | 3,85€ |  |
-| **Galettes riz complet ss sel** | | 1,49€ | |
-| **Galettes riz sésame** | | 1,49€ | |
-| **Galettes riz fines? ss sel** | | 1,65€ | |
-| **Galettes riz multi céréales** | | 1,49€ | |
