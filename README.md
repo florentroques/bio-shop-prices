@@ -3,7 +3,7 @@
 [logo-natureo]: img/logo-natureo.jpg "Logo Natureo"
 
 
-| Produit | <img src="img/logo-greendy.png" height="72"> | <img src="img/logo-la-vie-claire.png" height="72"> | <img src="img/logo-natureo.jpg" width="130"> |
+| Produit | <a href="http://greendy.greendada.fr/" target="_blank"><img src="img/logo-greendy.png" height="72"></a> | <a href="http://www.lavieclaire.com/magasin-bio/houilles.html" target="_blank"><img src="img/logo-la-vie-claire.png" height="72"></a> | <a href="http://www.natureo-bio.fr/magasin-houilles" target="_blank"><img src="img/logo-natureo.jpg" width="130"></a> |
 | ------------------- | -----: | -----: | -----: |
 | **Prix au kg**      | **Prix au kg** | **Prix au kg** | **Prix au kg** |
 | **Noix**            |  9,80€ |  7,50€ | 12,80€ |
