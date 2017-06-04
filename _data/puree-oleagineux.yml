@@ -1,13 +1,31 @@
-- title: Purée cacahuète Jean Hervé
+- title: Purée cacahuète Jean Hervé 350g
   brand: Jean Hervé
-  shop: Natureo
-  price: 4,49
   weight: 350g
-  date: 05-27-2017
+  prices:
+    - shop: Natureo
+      - date: 05-27-2017
+        price: 4,49
   
-- title: Purée cachuète Jean Hervé
+- title: Purée cacahuète Jean Hervé 700g
   brand: Jean Hervé
-  shop: Natureo
-  price: 8,20
   weight: 700g
-  date: 06-03-2017
+  prices:    
+   - shop: Natureo
+      - date: 06-03-2017
+        price: 8,20
+
+- title: Purée d'amande blanche 700g
+  brand: Jean Hervé
+  weight: 700g
+  prices:
+    - shop: Biocoop Greendy
+      - date: 03-10-2017
+        price: 20,50
+        
+- title: Purée de sésame blanc 700g
+  brand: Jean Hervé
+  weight: 700g
+  prices:
+    - shop: Biocoop Greendy
+      - date: 03-10-2017
+        price: 10,40
