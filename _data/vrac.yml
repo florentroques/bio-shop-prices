@@ -1,0 +1,23 @@
+- title: Noix de cajou
+  prices:
+    - shop: Natureo
+      - date: 05-16-2017
+        price-kg: 18,99
+        
+- title: Amandes decortiquees
+  prices:
+    - shop: Natureo
+      - date: 05-16-2017
+        price-kg: 19,99
+        
+- title: Baies de Goji
+  prices:
+    - shop: Natureo
+      - date: 05-16-2017
+        price-kg: 32,90
+        
+- title: Gros flocons avoine
+  price:
+    - shop: Natureo
+      - date: 05-16-2017
+        price-kg: 2,59
