@@ -13,9 +13,10 @@
 - title: Vital Mix - Alfalfa, Radis, Poireau
   brand: Germline
   weight: 50g
-  shop: Natureo
-  price: 2,50
-  date: 05-27-2017
+  prices: 
+    - shop: Natureo
+      - price: 2,50
+        date: 05-27-2017
   
 - title: Alfalfa/Cresson germés 75g
   brand: Germline
