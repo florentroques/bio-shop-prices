@@ -2,5 +2,8 @@
   brand: Germline
   prices:
     - shop: La Vie Claire
-      - price: 9,39
-        date: 06-03-2017
+      - date: 05-29-2017
+        price: 9,39
+      - date: 06-03-2017
+        price: 9,39
+        
