@@ -1,18 +1,3 @@
-- title: Noix de cajou
-  prices:
-    - shop: Natureo
-      - date: 05-16-2017
-        price-kg: 18,99
-        
-- title: Amandes decortiquees
-  prices:
-    - shop: Natureo
-      - date: 05-16-2017
-        price-kg: 19,99
-    - shop: La Vie Claire
-      - date: 05-22-2017
-        price-kg: 20,99
-        
 - title: Baies de Goji
   prices:
     - shop: Natureo
