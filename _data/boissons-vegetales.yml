@@ -1,0 +1,9 @@
+- title: Boisson plaisir soja, Petit épeautre & noisette
+  brand: Soy
+  uri: https://www.soy.fr/produit/boisson-plaisir-soja-petit-epeautre-noisette/
+  image-uri: https://www.soy.fr/wp-content/uploads/2015/03/boisson-plaisir-soja-petit-epeautre-noisette.png
+  prices:
+    - shop: Biocoop Greendy
+      - date: 03-10-2017
+        price: 3,23
+  
