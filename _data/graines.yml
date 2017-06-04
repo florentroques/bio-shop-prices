@@ -1,0 +1,16 @@
+- title: Graines chanvre décortiquées
+  brand: Purasana
+  weight: 200g
+  prices:
+    - shop: La Vie Claire
+      - date: 05-22-2017
+        price: 8,29
+
+- title: Graines de Tournesol
+  brand: A verifier en magasin La Vie Claire
+  weight: 500g
+  prices:
+    - shop: La Vie Claire
+      - date: 05-22-2017
+        price: 2,75
+  
