@@ -1,14 +1,19 @@
 - title: Alfalfa germé
   brand: Germline
-  shop: Natureo
-  price: 2,50
   weight: 75g
-  date: 05-27-2017
-  
+  prices:
+    - shop: Natureo
+      - price: 2,50
+        date: 05-27-2017
+        
+    - shop: La Vie Claire
+      - price: 2,05
+        date: 06-03-2017
+      
 - title: Vital Mix - Alfalfa, Radis, Poireau
   brand: Germline
+  weight: 50g
   shop: Natureo
   price: 2,50
-  weight: 50g
   date: 05-27-2017
   
