@@ -1,0 +1,6 @@
+- title: Avocat
+  prices:
+    - shop: Biocoop Greendy
+      - date: 03-10-2017
+        price: 1,35
+        discount: 3 for 3,35
