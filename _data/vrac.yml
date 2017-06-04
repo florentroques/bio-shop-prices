@@ -9,6 +9,9 @@
     - shop: Natureo
       - date: 05-16-2017
         price-kg: 19,99
+    - shop: La Vie Claire
+      - date: 05-22-2017
+        price-kg: 20,99
         
 - title: Baies de Goji
   prices:
@@ -17,7 +20,31 @@
         price-kg: 32,90
         
 - title: Gros flocons avoine
-  price:
+  prices:
     - shop: Natureo
       - date: 05-16-2017
         price-kg: 2,59
+
+- title: Krounchy Granola
+  prices:
+    - shop: Natureo
+      - date: 05-27-2017
+        price-kg: 7,50
+        
+- title: Figues Baglamas
+  prices:
+    - shop: La Vie Claire
+      - date: 05-22-2017
+        price-kg: 12,50
+
+- title: Cerises France
+  prices:
+    - shop: La Vie Claire
+      - date: 05-22-2017
+        price-kg: 10,75
+        
+- title: Graines de cuorge
+  prices:
+    - shop: La Vie Claire
+      - date: 05-22-2017
+        price-kg: 12,99
