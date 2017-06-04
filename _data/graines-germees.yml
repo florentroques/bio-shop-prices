@@ -17,6 +17,9 @@
     - shop: Natureo
       - price: 2,50
         date: 05-27-2017
+    - shop: La Vie Claire
+      - price: 2,35
+        date: 05-29-2017
   
 - title: Alfalfa/Cresson germés 75g
   brand: Germline
@@ -26,3 +29,18 @@
       - price: 2,16
         date: 06-03-2017
         
+- title: Roquette/Alfalfa germés 75g
+  brand: Germline
+  weight: 75g
+  prices:
+    - shop: La Vie Claire
+      - price: 2,35
+        date: 05-29-2017
+        
+- title: Alfalfa/Radis/Fenouil 75g
+  brand: Germline
+  weight: 75g
+  prices:
+    - shop: La Vie Claire
+      - price: 2,35
+        date: 05-29-2017
