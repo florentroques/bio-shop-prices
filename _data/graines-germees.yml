@@ -9,6 +9,8 @@
     - shop: La Vie Claire
       - price: 2,05
         date: 06-03-2017
+      - price: 2,05
+        date: 06-13-2017
       
 - title: Vital Mix - Alfalfa, Radis, Poireau
   brand: Germline
@@ -36,6 +38,8 @@
     - shop: La Vie Claire
       - price: 2,35
         date: 05-29-2017
+      - price: 2,35
+        date: 06-13-2017
         
 - title: Alfalfa/Radis/Fenouil 75g
   brand: Germline
@@ -44,3 +48,11 @@
     - shop: La Vie Claire
       - price: 2,35
         date: 05-29-2017
+        
+- title: Alfalfa/Poireau/Lentilles 75g
+  brand: Germline
+  weight: 75g
+  prices:
+    - shop: La Vie Claire
+      - price: 2,20
+        date: 06-13-2017
