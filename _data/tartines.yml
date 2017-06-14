@@ -1,8 +1,13 @@
 - title: Tartines craquantes Bio Sarrasin sans sel ni sucres
   brand: Le Pain des fleurs
-  shop: Natureo
-  price: 2,44
-  weight: 150g
-  date: 06-03-2017
   uri: http://www.lepaindesfleurs.fr/detail_produit.php?pa=gamme&var_code_article=4694
   image-uri: http://www.lepaindesfleurs.fr/gamme/lpdf_4694_sarrasin_sans_sel_150g_france.jpg
+  weight: 150g
+  prices:
+    - shop: Natureo
+      - price: 2,44
+        date: 06-03-2017
+    - shop: La Vie Claire
+      - price: 2,49
+        date: 06-13-2017
+  
