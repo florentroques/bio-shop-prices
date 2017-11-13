@@ -12,9 +12,14 @@
   date: 06-03-2017
   
 - title: Chocolat 100% Cacao
-  shop: La Vie Claire
-  price: 3,25
+  brand: La Vie Claire
   weight: 100g
-  date: 06-03-2017
   uri: http://www.lavieclaire.com/chocolat-100-chocolat-bio.html
+  prices:
+    - shop: La Vie Claire
+      - date: 06-03-2017
+        price: 3.25
+      - date: 11-09-2017
+        price: 3.25
+
   
