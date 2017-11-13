@@ -31,8 +31,13 @@
       - date: 11-09-2017
         price-kg: 2.99
 
-- title: avocat
+- title: Avocat
   prices:
+    - shop: Biocoop Greendy
+      - date: 03-10-2017
+        price: 1.35
+        discount: 3 for 3.35
     - shop: La Vie Claire Houilles
       - date: 11-09-2017
-        priec-kg: 6.95
+        price-kg: 6.95
+    
